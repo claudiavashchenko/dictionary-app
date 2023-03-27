@@ -9,7 +9,7 @@ function App() {
         <h1>DICTIONARY</h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="painting" />
       </main>
       <footer className="text-center">Coded by Claudia Vashchenko, open-sourced on <a href="https://github.com/claudiavashchenko/dictionary-app" target="_blank"  rel="noreferrer">Github</a>.</footer>
       </div>
