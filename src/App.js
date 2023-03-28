@@ -11,7 +11,7 @@ function App() {
       <main>
         <Dictionary defaultKeyword="painting" />
       </main>
-      <footer className="text-center">Coded by Claudia Vashchenko, open-sourced on <a href="https://github.com/claudiavashchenko/dictionary-app" target="_blank"  rel="noreferrer">Github</a>.</footer>
+      <footer className="text-center">Coded with ❤️ by Claudia Vashchenko, open-sourced on <a href="https://github.com/claudiavashchenko/dictionary-app" target="_blank"  rel="noreferrer">Github</a>.</footer>
       </div>
     </div>
   );
